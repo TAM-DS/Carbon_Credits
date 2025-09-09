@@ -1,2 +1,2 @@
 # Texas AI Infrastructure Analysis: Smart Contract Automation Opportunity
-This repository contains a comprehensive analysis of AI infrastructure operations across major Texas data centers, examining the potential for smart contract automation to improve operational efficiency, reduce costs, and enhance ESG compliance.
+This repository contains a self-compiled dataset, texas_ai_infrastructure_data.csv, updated with a focus on Texas-only operations and stronger business metrics—cleaned and ready to be used in your own projects. The analysis provides a comprehensive examination of AI infrastructure operations across major Texas data centers, examining the potential for smart contract automation to improve operational efficiency, reduce costs, and enhance ESG compliance.
