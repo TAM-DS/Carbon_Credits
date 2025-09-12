@@ -124,8 +124,6 @@ This repository contains a comprehensive analysis of AI infrastructure operation
 - **Integration Analysis**: Smart contract interoperability across platforms
 - **Regulatory Framework**: Compliance implications for automated systems
 
-## 📞 Contact
-
 For questions about the dataset, methodology, or collaboration opportunities:
 
 **GitHub**: [TAM-DS](https://github.com/TAM-DS)  
